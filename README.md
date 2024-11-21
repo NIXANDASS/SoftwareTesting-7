@@ -26,7 +26,7 @@ assert fibR(6) == 7
 ```
 
 ### Output:
-![STLNN](https://github.com/user-attachments/assets/b7a7612e-111d-4187-b4a8-e9d403e6209e)
+!![image](https://github.com/user-attachments/assets/255abcd2-e725-43aa-9927-7b5ef2299188)
 
 ### Result:
 Thus, the python program for addition is tested using pytest and executed and output is verified successfully.
